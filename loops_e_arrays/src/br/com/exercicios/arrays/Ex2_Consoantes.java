@@ -30,8 +30,9 @@ public class Ex2_Consoantes {
 
         System.out.println("Consoantes: ");
         for (String consoante : consoantes) {
-          if (consoante != null)  System.out.println(consoante + " ");
+            if (consoante != null) System.out.println(consoante + " ");
         }
+        System.out.println("Quantidade de consoantes: " + quantConsoantes);
 
 
     }
