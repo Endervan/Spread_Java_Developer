@@ -17,7 +17,11 @@ public class Ex1_NomeEIdade {
             if (nome.equals("0")) break; // para laco caso nome seja igual a zero
             System.out.println("Idade: ");
             idade = scan.nextInt();  // ler idade digitada (inteiro)
+
+
         }
+
+        System.out.println("continuar aqui.....");
 
 
     }
