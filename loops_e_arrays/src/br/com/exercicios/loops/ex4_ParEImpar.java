@@ -1,4 +1,4 @@
-package br.com.exercicios.arrays;
+package br.com.exercicios.loops;
 
 import java.util.Scanner;
 
