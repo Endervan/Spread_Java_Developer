@@ -1,4 +1,5 @@
 # Bootcamp Spread Java Developer
+
 [![Tests](https://img.shields.io/github/workflow/status/artkonekt/menu/tests/master?style=flat-square)](https://github.com/artkonekt/menu/actions?query=workflow%3Atests)
 [![Stable packagist version](https://img.shields.io/packagist/v/konekt/menu.svg?style=flat-square)](https://packagist.org/packages/konekt/menu)
 [![Packagist downloads](https://img.shields.io/packagist/dt/konekt/menu.svg?style=flat-square)](https://packagist.org/packages/konekt/menu)
@@ -12,9 +13,8 @@
 </h2>
 
 - [x] Java JDK 11
-- [x] IDE para desenvolvimento Java 
+- [x] IDE para desenvolvimento Java
 - [x] Conhecer a sintaxe Java
-
 
 <p align="left">
   🦄 Linguagens: <strong>Java</strong>
@@ -37,11 +37,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <br><br></p>
 <!-- Ícones das linguagens -->
 <p align="center">
-  
+
 
 ![alt-text-1](https://i.ibb.co/zRvg3N4/70ffd759-aefd-4d9e-82f4-e9424f085e83.png "title-1")![alt-text-2](https://i.postimg.cc/DwrJHWMT/java-25-yrs-rgb.png "title-2")
-
-
 
 <h3>📚 Códigos nas Linguagens // Codes in Languages </h3>
 <!-- Java -->
@@ -50,7 +48,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <div align="left">
    <table border="1">
               <tbody><tr>
-                  <th colspan="4">Em Breve ....</th>
+                  <th colspan="4">Desafios Java Developer</th>
               </tr>
               <tr>
                   <th colspan="4"></th>
@@ -63,26 +61,44 @@ Os códigos estão rodando normalmente na plataforma da DIO.
               </tr>
               <tr>
                   <td align="center">1</td>
-                  <td>#</td>
-                  <td><a href="#">Código</a></td>
+                  <td>Xadrez</td>
+                  <td><a href="https://github.com/Endervan/Spread_Java_Developer/blob/main/loops_e_arrays/src/br/com/desafios/Xadrez.java">Código</a></td>
                   <td align="center"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji></td>
               </tr>
               <tr>
                   <td align="center">2</td>
-                  <td>#</td>
-                  <td><a href="#">Código</a></td>
+                  <td>Trigo no Tabuleiro</td>
+                  <td><a href="https://github.com/Endervan/Spread_Java_Developer/blob/main/loops_e_arrays/src/br/com/desafios/TrigoNoTabuleiro.java">Código</a></td>
                   <td align="center"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji></td>
               </tr>
               <tr>
                   <td align="center">3</td>
-                  <td>#</td>
-                  <td><a href="#">Código</a></td>
+                  <td>MacPRONALTS</td>
+                  <td><a href="https://github.com/Endervan/Spread_Java_Developer/blob/main/loops_e_arrays/src/br/com/desafios/MacPRONALTS.java">Código</a></td>
+                  <td align="center"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji></td>
+          </tr> 
+            <tr>
+                  <td align="center">3</td>
+                  <td>Fuso Horário</td>
+                  <td><a href="https://github.com/Endervan/Spread_Java_Developer/blob/main/loops_e_arrays/src/br/com/desafios/FusoHorario.java">Código</a></td>
+                  <td align="center"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji></td>
+          </tr> 
+           <tr>
+                  <td align="center">3</td>
+                  <td>Par E impar</td>
+                  <td><a href="https://github.com/Endervan/Spread_Java_Developer/blob/main/loops_e_arrays/src/br/com/desafios/parEimpar.java">Código</a></td>
+                  <td align="center"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji></td>
+          </tr>
+            <tr>
+                  <td align="center">3</td>
+                  <td>Drama</td>
+                  <td><a href="https://github.com/Endervan/Spread_Java_Developer/blob/main/loops_e_arrays/src/br/com/desafios/Dama.java">Código</a></td>
                   <td align="center"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji></td>
           </tr>
           </tbody>
           </table>   
   </div>
-  
+
 </details>
 
 
@@ -99,8 +115,10 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 <h2> ➿ ESTRUTURAS DE REPETIÇÃO </h2>
 
-🔸 O real poder dos computadores está na sua habilidade para repetir uma operação ou uma série de operações várias vezes (*loop*).<br>
-🔸 **Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições são satisfeitas.**<br>
+🔸 O real poder dos computadores está na sua habilidade para repetir uma operação ou uma série de operações várias
+vezes (*loop*).<br>
+🔸 **Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas
+condições são satisfeitas.**<br>
 🔸 Essas condições são representadas por expressões lógica.<br>
 🔸 As estruturas de repetição podem ser classificadas em:
 
@@ -109,7 +127,8 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 - [x] Repetição contada (*for*)
 
 🔸O comando *break* é utilizado para terminar de forma abrupta uma repetição.<br>
-🔸Quando comando *continue* é executado, os comandos restantes da repetição são ignorados e programa volta a testar novamente a condição.<br>
+🔸Quando comando *continue* é executado, os comandos restantes da repetição são ignorados e programa volta a testar
+novamente a condição.<br>
 
 <h3> 📊 FLUXOGRAMAS </h3>	
 <img src="https://i.ibb.co/gjXpxbt/Screenshot-from-2021-08-25-09-44-42.png" alt="Screenshot-from-2021-08-25-09-44-42" border="0">
@@ -123,12 +142,12 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 <strong>FLUXO DE EXECUÇÃO ARBRITÁRIO: <em>goto</em></strong>
 
-🔸O comando <em>goto</em> tem por finalidade desviar a execução do programa para qualquer outro ponto do programa, desconsiderando qualquer estrutura de repetição ou estrutura condicional.<br>
+🔸O comando <em>goto</em> tem por finalidade desviar a execução do programa para qualquer outro ponto do programa,
+desconsiderando qualquer estrutura de repetição ou estrutura condicional.<br>
 🔸Ao contrário de C/C++, Java não tem instrução <em>goto</em>, mas java oferece suporte a <em>label</em>.<br>
 <br>
 🔗 https://www.geeksforgeeks.org/g-fact-64/<br>
 🔗 https://www.tutorialspoint.com/How-to-use-labels-in-Java-code<br>
-
 
 <h2>⛓️ ARRAYS </h2>
 
@@ -153,19 +172,19 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 🔗 https://blog.grancursosonline.com.br/java-operadores-de-incremento-e-decremento/<br>
 🔗 http://www.facom.ufu.br/~bacala/POO/04%20-%20Arrays%20em%20Java.pdf<br>
 🔗 http://www.inf.ufsc.br/~frank.siqueira/INE5404/7.Arrays.pdf<br>
-	
-	
+
+
 <h2> 🤝 Contribuindo </h2>
 
 Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não
+deixe de compatilhar.
 
 Se possível:
 
-⭐️  Star o projeto
+⭐️ Star o projeto
 
 🐛 Encontrar e relatar issues
-
 
 ## 💪 Como contribuir para o projeto
 
@@ -173,6 +192,7 @@ Se possível:
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
+
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ## 🦸 Autor
